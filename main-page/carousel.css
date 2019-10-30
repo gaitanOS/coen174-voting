@@ -8,6 +8,16 @@ body {
   color: #5a5a5a;
 }
 
+nav {
+  background-color: #9d2235;
+  color: black;
+}
+
+a {
+  color: white;
+}
+
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -34,6 +44,7 @@ body {
   min-width: 100%;
   height: 32rem;
 }
+
 
 
 /* MARKETING CONTENT
