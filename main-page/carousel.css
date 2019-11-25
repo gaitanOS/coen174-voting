@@ -15,6 +15,13 @@ nav {
 
 a {
   color: white;
+
+}
+
+a:hover {
+
+  color: #4d0000;
+
 }
 
 
@@ -99,4 +106,12 @@ a {
   .featurette-heading {
     margin-top: 7rem;
   }
+}
+
+
+
+/*Isabelle's CSS */
+.DocHeading {
+  color: #9d2235;
+  font-style: normal;
 }
